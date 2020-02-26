@@ -1,0 +1,6 @@
+[submodule "mobile-practicals-szetko"]
+	path = mobile-practicals-szetko
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-practicals-szetko.git
+[submodule "mobile-course-materials"]
+	path = mobile-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-course-materials.git
